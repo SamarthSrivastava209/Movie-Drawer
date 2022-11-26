@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+}
+
+    
+
+.d-block w-100{
+    width: 50%;
+}
+.carousel {
+    margin: 0px 0px 50px 230px;
+    width: 1040px;
+    height:460px;
+  }
+  .pop
+  {
+    margin: 5px 0px 5px 10px;
+    color: azure;
+  }
+  .nav.navbar-nav.navbar-right {
+    color: azure;
+}
+.navbar-brand
+{
+    color: red;
+
+}
+.navbar-nav .active {
+    color: azure;
+  }
+  .element
+  {
+    font-size: 20px;
+  }
+  .spacing
+  {
+    margin: 0px 20px 0px 0px;
+  }
+  .future
+  {
+      text-align: center;
+      font-size: 12px;
+      margin: 0px 0px 0px 20px;
+  }
+  .social
+  {
+    
+    padding-bottom: 20px;
+    padding-left: 25px;
+    font-size: 30px;
+    color: inherit;
+    display: inline-block;
+  }
+  .footer ul li{
+list-style: none;
+display: inline-block;
+  }
+  .footer
+  {
+    text-align: center;
+    color: aliceblue;
+    background-color: #000009;
+    position: relative;
+    margin: 0px;
+    padding: 20px;
+  }
+  
